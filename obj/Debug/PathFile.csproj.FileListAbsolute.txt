@@ -1,0 +1,6 @@
+E:\Projects\PathFile\PathFile\bin\Debug\PathFile.dll
+E:\Projects\PathFile\PathFile\bin\Debug\PathFile.pdb
+E:\Projects\PathFile\PathFile\obj\Debug\PathFile.csproj.AssemblyReference.cache
+E:\Projects\PathFile\PathFile\obj\Debug\PathFile.csproj.CoreCompileInputs.cache
+E:\Projects\PathFile\PathFile\obj\Debug\PathFile.dll
+E:\Projects\PathFile\PathFile\obj\Debug\PathFile.pdb
